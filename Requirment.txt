@@ -1,0 +1,7 @@
+Required Libraries for Personalized E-Learning System
+
+flask==2.1.2 pandas==1.4.2 numpy==1.22.3 scikit-learn==1.1.1 matplotlib==3.5.1 seaborn==0.11.2 plotly==5.6.0
+
+
+
+The Requirement.txt file is ready in the canvas. Let me know if you need to add any more dependencies or make adjustments.
